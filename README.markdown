@@ -1,11 +1,10 @@
 # spf13-vim : Steve Francia's Vim Distribution
 
-                    __ _ _____              _
-         ___ _ __  / _/ |___ /      __   __(_)_ __ ___
-        / __| '_ \| |_| | |_ \ _____\ \ / /| | '_ ` _ \
-        \__ \ |_) |  _| |___) |_____|\ V / | | | | | | |
-        |___/ .__/|_| |_|____/        \_/  |_|_| |_| |_|
-            |_|
+## 个人使用
+跨平台复制粘贴
+安装 vim-gnome & xsel
+sudo apt-get install vim-gnome xsel
+---
 
 spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 
